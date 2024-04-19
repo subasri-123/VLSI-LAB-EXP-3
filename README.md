@@ -84,7 +84,7 @@ endmodule
 ## 4 BIT MULTIPLIER
 ![Screenshot (17)](https://github.com/subasri-123/VLSI-LAB-EXP-3/assets/166198549/e1ce232b-1586-48e1-8fe7-3bf73bb26298)
 
-## Result
+## RESULT
 Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
 
