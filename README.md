@@ -23,7 +23,7 @@ STEP:7 compare the output with truth table.
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
 ## VERILOG CODE
-2 BIT MULTIPLIER
+## 2 BIT MULTIPLIER
 ```
 module ha(a,b,sum,c);
 input a,b;
@@ -40,7 +40,7 @@ ha ha1(a[0]&b[1],a[1]&b[0],c[1],w1);
 ha ha2(a[1] &b[1],w1,c[2],c[3]);
 endmodule
 ```
-4 BIT MULTIPLIER
+## 4 BIT MULTIPLIER
 ```
 module ha(a,b,c,s);
 input a,b;
